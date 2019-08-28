@@ -3,7 +3,7 @@ Practice
 
 ### These practice exercises are provided to you to prepare for cs514 over the summer.
 
-In this set of practice problems, you will practice using the following:
+In this set of practice problems, you'll practice using the following:
 
 - Math operations
 - Methods
