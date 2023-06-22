@@ -26,12 +26,11 @@ We will be using IntelliJ and Github in cs514.
 IntelliJ is an Integrated Development Environment (IDE). IDE is a piece of software that makes developing code easier: it contains an editor that provides clever code completion,  a debugger, refactoring tools, and build automation tools.
 
 1. Download [IntelliJ here]https://www.jetbrains.com/idea/download/). Select the Community edition (it's free).
-2. Download [Java 8 here](http://www.oracle.com/technetwork/java/javase/downloads/index.html) You need the JDK (Java SE Development Kit).
-3. Make sure IntelliJ  is configured correctly to use Java 8.
+2. Download [Java here](http://www.oracle.com/technetwork/java/javase/downloads/index.html) You need the JDK (Java SE Development Kit).
 
 Github is a web-based version control system.  All assignments in cs514 will be posted and submitted using github. Create a github user account if you do not already have one and sign up for the [Student Developer Pack](https://education.github.com/pack).
 
-It is easy to access github from IntelliJ. Here is a video that shows you how to clone a github repository  (create a copy of it on your local machine)  in IntelliJ: https://www.youtube.com/watch?v=DRKrzN0LwUw
+It is easy to access github from IntelliJ. Here is a video that shows you how to clone a github repository  (create a copy of it on your local machine)  in IntelliJ:
 Once you clone the skeleton code to IntelliJ, you can fill in the code in the provided Java classes and run each class to test if your methods work correctly (I added a main method to each class, although it's not ideal from the design point of view). There is no need for you to submit your code since this problems are just for practice.
 
 ### Practice Questions
