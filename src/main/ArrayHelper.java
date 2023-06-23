@@ -20,6 +20,7 @@ public class ArrayHelper {
      */
     public static int sum(int[] arr) {
         //TODO: Replace with your code.
+        return 0;
     }
 
     /** Returns the product of all elements of the array
