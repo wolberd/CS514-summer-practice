@@ -1,7 +1,7 @@
 Practice
 ========
 
-### These practice exercises are provided to you to prepare for cs514 over the summer.
+### These practice exercises are provided to you to prepare for USF's CS 514 class over the summer.
 
 In this set of practice problems, you'll practice using the following:
 
