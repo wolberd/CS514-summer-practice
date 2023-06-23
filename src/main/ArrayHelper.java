@@ -19,10 +19,7 @@ public class ArrayHelper {
      * @return sum of elements
      */
     public static int sum(int[] arr) {
-        int total=0;
-        for (int i=0;i<arr.length;i++)
-            total=total+arr[i];
-        return total;
+        //TODO: Replace with your code.
     }
 
     /** Returns the product of all elements of the array
