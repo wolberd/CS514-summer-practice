@@ -29,8 +29,11 @@ public class ArrayHelper {
      * @return product of all elements
      */
     public static int product(int[] arr) {
-        //TODO: Replace with your code.
-        return 1;
+        int total=1;
+        for (int i=0;i<arr.length;i++)
+            total=total*arr[i];
+        return total;
+
     }
 
     /**
